@@ -1,1 +1,1 @@
-# ArcoLinux-config-deepin
+# ArcoLinux-config
